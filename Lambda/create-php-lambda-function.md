@@ -13,3 +13,6 @@
 1. Test lambda function by hitting API Gateway endpoint
 
 # FAQs
+
+How do you enable extensions?
+ - Create a `php.ini` in the project root and add the extensions (e.g `extension=xml.so`)
